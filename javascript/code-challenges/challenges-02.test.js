@@ -122,7 +122,7 @@ For example: evenOdd([1,2,3]) returns ['odd','even','odd'].
 const evenOdd = (arr) => {
   // Solution code here...
 };
-
+//comment
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 9 - Stretch Goal
 
