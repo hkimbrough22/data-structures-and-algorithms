@@ -79,7 +79,6 @@ const onlyOddChars = (str) => {
   let newString = str;
   for(let i = str.length-1; i >= 0; i--) {
     if(i % 2 === 0) {
-      console.log(newString[i]);
       newString = newString.replace(newString[i], '');
     }
   }
